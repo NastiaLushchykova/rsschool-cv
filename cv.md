@@ -6,6 +6,7 @@
 * __Discord:__ nastialushchykova
 * __Linkedin:__ https://www.linkedin.com/in/anastasiia-lushchykova-157b74100/
 * __GitHub:__ https://github.com/NastiaLushchykova
+
 ---
 ### Objectives:
 * I’m looking for Middle QA Engineer position with the full time employment in a team with a 'healthy atmosphere' inside. I would like to continue my professional development as QA Automation Engineer in the future. 
