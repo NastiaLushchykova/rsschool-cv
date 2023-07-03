@@ -47,7 +47,11 @@ Project: casual games (web and mobile)
 * 09/2010 - 03/2016 National technical University of Ukraine “Kyiv polytechnic institute”, Technology of machine building (Specialist Diploma)
 ---
 ### Code example
-```function saleHotdogs(n){
-  return (n < 5) ? n * 100 : (n >= 5 && n < 10) ? (n * 95) : n * 90
+```function oddOrEven(array) {
+   let sum = 0;
+  for (let i = 0; i < array.length; i++){
+    sum += array[i];
   }
+  return sum % 2 ? 'odd' : 'even'
+}
 ```
