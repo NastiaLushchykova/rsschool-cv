@@ -10,12 +10,13 @@
 ---
 ### Objectives:
 * I’m looking for Middle QA Engineer position with the full time employment in a team with a 'healthy atmosphere' inside. I would like to continue my professional development as QA Automation Engineer in the future. 
+
 ---
 
 ### Experience:
 
 QA Engineer 
-  ~ 03/2018 to present - "SoftElegance"
+  * 03/2018 to present - "SoftElegance"
 
 Project: a web application that allows clients to record their daily activities and view reports (Oil & Gas Industry);
       
@@ -24,7 +25,7 @@ Project: a web application that allows clients to record their daily activities 
 + REST API testing;
 
 QA Engineer/QA Lead 
-  ~ 09/2016 – 03/2018 - "Lemonade Agency"
+  * 09/2016 – 03/2018 - "Lemonade Agency"
                                                                                                     
 Project: casual games (web and mobile)
 
@@ -32,6 +33,7 @@ Project: casual games (web and mobile)
 + Creating test documentation
 + Test planning and tasks distribution between members of QA team;
 + Supporting users
+
 ---
 ### Knowledge/Practice skills
 * GIT 
@@ -40,12 +42,14 @@ Project: casual games (web and mobile)
 * SQL (creating simple requests);
 * Jira, Asure DevOps, Gemini (as bug tracking systems);
 * English - Upper-Intermediate
+
 ---
 ### Education:
 * 06/2022 - 09/2023 “Start IT” - JS for QA Automation;
 * 09/2016 - 11/2016 “Start IT” - QA Web Automation;
 * 05/2015 - 08/2015 “Infopulse univer”, Software testing courses;
 * 09/2010 - 03/2016 National technical University of Ukraine “Kyiv polytechnic institute”, Technology of machine building (Specialist Diploma)
+
 ---
 ### Code example
 ```
