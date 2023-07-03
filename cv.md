@@ -32,3 +32,22 @@ Project: casual games (web and mobile)
 + Test planning and tasks distribution between members of QA team;
 + Supporting users
 ---
+### Knowledge/Practice skills
+* GIT 
+* JS basic
+* REST API: Postman, Swagger;
+* SQL (creating simple requests);
+* Jira, Asure DevOps, Gemini (as bug tracking systems);
+* English - Upper-Intermediate
+---
+### Education:
+* 06/2022 - 09/2023 “Start IT” - JS for QA Automation;
+* 09/2016 - 11/2016 “Start IT” - QA Web Automation;
+* 05/2015 - 08/2015 “Infopulse univer”, Software testing courses;
+* 09/2010 - 03/2016 National technical University of Ukraine “Kyiv polytechnic institute”, Technology of machine building (Specialist Diploma)
+---
+### Code example
+```function saleHotdogs(n){
+  return (n < 5) ? n * 100 : (n >= 5 && n < 10) ? (n * 95) : n * 90
+  }
+```
